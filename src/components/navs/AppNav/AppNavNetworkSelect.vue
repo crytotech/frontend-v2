@@ -67,6 +67,12 @@ export default defineComponent({
     // DATA
     const networks = [
       {
+        id: 'cryto',
+        name: 'Cryto',
+        subdomain: 'cryto',
+        key: '424'
+      },
+      {
         id: 'ethereum',
         name: 'Ethereum',
         subdomain: 'app',
